@@ -12,6 +12,10 @@ docker run iohubos/wg-keygenerator
 Output:
 
 ```text
-Private key: 4CDlwiUfqVd1MeyttD0T54jM33Qa8nrmv8z9Ji2K2WM=
-Public key: fkbl4QCmULf6ALTUKAKa+UFcX+wNmdGwLIaOtiwsbTg=
+=================== Wireguard Key Pair ==================
+
+Private key: sKv4qFucE1/k87Jm9+yq6tTFjFX4Jhg5GLKtrin7lGU=
+Public key:  lGkboQXSsEE6R5NbcYVFRPbz6WUEtp5k94U7/i1U8kU=
+
+=========================================================
 ```
