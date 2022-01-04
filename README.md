@@ -1,7 +1,7 @@
 # Wireguard Key Generator
 
 [![License](https://img.shields.io/github/license/iohubos/wg-keygenerator.svg)](LICENSE)
-[![CircleCI Build Status](https://circleci.com/gh/iohubos/wg-keygenerator/tree/main.svg?style=shield)](https://circleci.com/gh/iohubos/iohubos/tree/master)
+[![CircleCI Build Status](https://circleci.com/gh/iohubos/wg-keygenerator/tree/main.svg?style=shield)](https://circleci.com/gh/iohubos/wg-keygenerator/tree/master)
 
 Simple utility to generate a new Wireguard key pair.
 
